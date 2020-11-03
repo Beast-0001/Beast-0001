@@ -36,10 +36,10 @@
 <details>
   <summary>👋 Connect me!</summary>
 
-   <img align="left" href="https://dsc.bio/beastfnbr" alt="My Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="40" height="40"/>
-   <img align="right" href="https://twitter.com/BeastyLegends" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>
-   <img align="left" href="https://github.com/Beast-0001/" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"/>
-   <img align="right" href="https://codepen.io/beastatfnbr" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="40" height="40"/>
+   <img align="center" href="https://dsc.bio/beastfnbr" alt="My Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="40" height="40"/>
+   <img align="center" href="https://twitter.com/BeastyLegends" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"/>
+   <img align="center" href="https://github.com/Beast-0001/" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"/>
+   <img align="center" href="https://codepen.io/beastatfnbr" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="40" height="40"/>
 
 </details>
 
